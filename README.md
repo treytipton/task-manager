@@ -1,0 +1,6 @@
+Not much to this program it just stores tasks in a .csv file and moves them around based on whether you've marked them complete or not. 
+
+Here are some of the feature I'm planning on adding in the future (maybe):
+1. GUI - This would make using this "application" a lot more desirable.
+2. Clear Completed Command - The completed tasks file serves little purpose other than allowing the user to see what all they have done in the past. After a while, they probably won't won't to keep seeing all of the old tasks they've completed like a few months ago. So a "Clear Completed" command would allow them to simply wipe the file clean and allow them to start new.
+3. A priority feature - One thing that would seperate this program from a simple whiteboard would be a priority feature that way you wouldn't have to determine which task to work on, it would just tell you what's most important and you work on the first one on the list. A simple way to calculate priority would be to combine the days until due number with a custom priority number the user gives, but I'll cross that bridge when I get there.
